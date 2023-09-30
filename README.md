@@ -1,5 +1,5 @@
 # Featuring-and-cleaning-data-in-healthcare
-Openclassroom project n°4
+Openclassroom project n°3
 
 This project is about the cleaning and exploration of datas provided from healthcare system.
 Alot of missing values, of outliers to deal with, to be able to extract usable information to create an app.
